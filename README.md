@@ -1,2 +1,2 @@
 Freelance project. Education game. 
- [Link Text](https://bigbangking.github.io/EducationGameTest/)
+ [Link for testing the game.](https://bigbangking.github.io/EducationGameTest/)
